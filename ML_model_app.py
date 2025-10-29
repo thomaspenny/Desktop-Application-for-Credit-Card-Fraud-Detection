@@ -1,5 +1,5 @@
 # ============================================================================
-# ============ Thomas Penny, Abertay University 2025, HCS522 =================
+# ======================== Thomas Penny, 2025 ================================
 # ============================================================================
 
 import threading
@@ -1698,3 +1698,4 @@ if __name__ == "__main__":
     # Initialize with data-dependent UI disabled
     disable_data_dependent_ui()
     root.mainloop()
+
