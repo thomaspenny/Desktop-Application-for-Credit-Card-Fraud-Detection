@@ -2,8 +2,6 @@
 
 ## Project Overview
 
-This application is a comprehensive **Machine Learning Model Analysis and Interpretability Toolkit** developed as the final project for the HCS522 module at Abertay University by Thomas Penny.
-
 The tool provides a graphical user interface (GUI) built with **Tkinter** for loading a dataset, comparing multiple classification models, and generating visual reports on model performance (AUC-ROC, Confusion Matrices, Timings) and interpretability (**SHAP and LIME**).
 
 This project focuses on providing a detailed, explainable comparison of various models in a single, user-friendly environment.
