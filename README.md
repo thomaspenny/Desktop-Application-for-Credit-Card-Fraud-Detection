@@ -6,6 +6,8 @@ The tool provides a graphical user interface (GUI) built with **Tkinter** for lo
 
 This project focuses on providing a detailed, explainable comparison of various models in a single, user-friendly environment.
 
+The intended dataset for this application can be downloaded here (link also included in app): https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/discussion?sort=undefined
+
 ## Key Features
 
 * **Model Comparison:** Runs and compares six popular classification models:
