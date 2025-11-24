@@ -6,6 +6,8 @@ The tool provides a graphical user interface (GUI) built with **Tkinter** for lo
 
 This project focuses on providing a detailed, explainable comparison of various models in a single, user-friendly environment.
 
+Download the Setup Wizard for the App: https://www.dropbox.com/scl/fi/r7absmshib8p96zw6kwhm/CreditCardFraudDetectionSetup.exe?rlkey=qnbcxq26li4d9f0u01wy5mulv&st=j06jjgpz&dl=1
+
 The intended dataset for this application can be downloaded here (link also included in app): https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/discussion?sort=undefined
 
 ## Key Features
